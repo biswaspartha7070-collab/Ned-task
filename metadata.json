@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse Portfolio & Task Studio",
+  "description": "ডার্ক থিম নেটিভ মোবাইল ও ডেস্কটপ পোর্টফোলিও, প্রজেক্ট ও কাজের অভিজ্ঞতা ম্যানেজমেন্ট এবং এআই টাস্ক ওয়ার্কস্পেস",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
